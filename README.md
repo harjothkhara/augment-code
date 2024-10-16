@@ -21,10 +21,11 @@ Check out the landing page: [Augment Code](https://cursor-azure.vercel.app/)
 
 ## Features
 
-- Landing page with interactive hero section featuring a blinking robot animation on hover
-- User testimonials carousel
-- Augment product video demo by Guy
-- Partners section with scrolling animation
+- ~~Landing page with interactive hero section featuring a blinking robot animation on hover~~
+- ~~User testimonials carousel~~
+- ~~Augment product video demo by Guy~~
+- ~~Partners section with scrolling animation~~
+- Animated gif example of chat completion
 
 ## Getting Started
 
@@ -33,21 +34,25 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/yourusername/augment-codes.git
    ```
 
 2. Navigate to the project directory:
+
    ```
    cd augment-codes
    ```
 
 3. Install dependencies:
+
    ```
    npm install
    ```
 
 4. Start the development server:
+
    ```
    npm run dev
    ```
@@ -95,6 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Screenshots
 
 ### Landing Page
+
 ![Landing Page Top Section](src/images/augment-landingpage1.png)
 
 ![Landing Page Top Section](src/images/augment-landingpage3.png)
@@ -102,4 +108,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ![Landing Page Bottom Section](src/images/augment-landingpage2.png)
 
 ![Landing Page Bottom Section](src/images/augment-landingpage4.png)
-

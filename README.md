@@ -17,7 +17,7 @@ This website is hosted on [Vercel](https://vercel.com/), a cloud platform for st
 
 ## Live Demo
 
-Check out the landing page: [Augment Code](https://cursor-azure.vercel.app/)
+Check out the landing page: [Augment Code](https://augment-azure.vercel.app/)
 
 ## Features
 

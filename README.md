@@ -1,6 +1,6 @@
 # Augment Code
 
-Augment Code is a web application that helps developers write better code faster using AI-powered suggestions and code completion.
+Augment Code is a developer tool for teams that helps developers write better code faster using AI-powered suggestions and code completions. A pair programmer that lives inside your IDE and works at the speed of thought.
 
 ## Built With
 
@@ -21,11 +21,13 @@ Check out the landing page: <a href="https://augment-azure.vercel.app/" target="
 
 ## Features
 
-- ~~Landing page with interactive hero section featuring a blinking robot animation on hover~~
-- ~~User testimonials carousel~~
-- ~~Augment product video demo by Guy~~
-- ~~Partners section with scrolling animation~~
-- Animated gif example of chat completion
+- Landing page with interactive hero section featuring a blinking robot animation
+- User testimonials carousel
+- Augment product video demo
+- Features showcase highlighting codebase, dev team, and company benefits
+- Responsive design for mobile and desktop views
+- Header with navigation and call-to-action button
+- Footer with company info and useful links
 
 ## Getting Started
 
@@ -71,8 +73,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 Here are some features that are being considered for future updates:
 
-- Add a demonstration animation video of the product. e.g user using augment code editor to generate unit tests for a given code snippet
-- Add a scrolling logo banner component for all current partners
+- Add: gif showing code generation examples, e.g. "Generate a React component", "Write unit tests for this component"
+- Add: Marketing Section: billboard ads
+- Add: Blog Section: experience using Augment with some pros and cons
+- Add: 3D interactive Augment Robot on landing page (Blender 3D, After Effects)
 
 ### How to Request a Feature
 

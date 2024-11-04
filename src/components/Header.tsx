@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 import Button from './Button';
 
 const Header: React.FC = () => {
@@ -7,6 +8,9 @@ const Header: React.FC = () => {
       <nav className="container mx-auto px-6">
         <div className="flex justify-between md:justify-end items-center">
           <div className="flex md:mr-4">
+            <Link href="/marketing">
+              <a className="font-inter text-nowrap py-2 hover:text-gray-600 text-gray-600 mr-4 text-sm">Marketing</a>
+            </Link>
             <a href="#" className="font-inter text-nowrap py-2 hover:text-gray-600 text-gray-600 mr-4 text-sm">Blog</a>
             <a href="#" className="font-inter text-nowrap py-2 hover:text-gray-600 text-gray-600 mr-4 text-sm">Team</a>
             <a href="#" className="font-inter text-nowrap py-2 hover:text-gray-600 text-gray-600 mr-4 text-sm">Careers</a>

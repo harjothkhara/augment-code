@@ -8,7 +8,7 @@ Augment Code is a developer tool for teams that helps developers write better co
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript at Any Scale
-- [Cursor AI](https://www.cursor.so/) - AI-powered code editor
+- [Augment Code](https://www.augmentcode.com/) - The Developer AI that deeply understands your codebase
 - [Claude 3.5 Sonnet](https://www.anthropic.com) - Advanced AI model for natural language processing
 
 ## Hosting
@@ -61,20 +61,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
-## Built With
-
-- [Next.js](https://nextjs.org/) - The React framework used
-- [Tailwind CSS](https://tailwindcss.com/) - For styling
-- [TypeScript](https://www.typescriptlang.org/) - For type-safe code
-- [Cursor AI](https://www.cursor.so/) - AI-powered code editor
-- [Claude 3.5 Sonnet](https://www.anthropic.com) - Advanced AI model for natural language processing
 
 ## Feature Requests
 
 Here are some features that are being considered for future updates:
 
 - Add: gif showing code generation examples, e.g. "Generate a React component", "Write unit tests for this component"
-- Add: Marketing Section: billboard ads
+- ~~Add: Marketing Section: billboard ads~~
 - Add: Blog Section: experience using Augment with some pros and cons
 - Add: 3D interactive Augment Robot on landing page (Blender 3D, After Effects)
 
